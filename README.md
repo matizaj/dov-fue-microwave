@@ -13,6 +13,6 @@ User stories:
 • When I press the start button when the door is closed and already heating, increase remaining
 time by 1 minute.
 [Additional requirement]
-• Time when Microwave owen cant run longer than specified time in configuration file.
+• The microwave oven cannot run longer than the time specified in the configuration file.
 
 Microwave.Console is the startup project.
